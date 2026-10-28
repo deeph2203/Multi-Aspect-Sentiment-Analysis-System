@@ -1,0 +1,55 @@
+D:\ICT\SEM 7\nlppro>python -u "d:\ICT\SEM 7\nlppro\step2_preprocess.py"
+=== 2.1 Tokenisation ===
+text : I don't like the screen, but the battery isn't bad.
+ split(): ['I', "don't", 'like', 'the', 'screen,', 'but', 'the', 'battery', "isn't", 'bad.']
+ NLTK   : ['I', 'do', "n't", 'like', 'the', 'screen', ',', 'but', 'the', 'battery', 'is', "n't", 'bad', '.']
+ spaCy  : ['I', 'do', "n't", 'like', 'the', 'screen', ',', 'but', 'the', 'battery', 'is', "n't", 'bad', '.']
+text : It costs $1,299.99 -- way too much!
+ split(): ['It', 'costs', '$1,299.99', '--', 'way', 'too', 'much!']
+ NLTK   : ['It', 'costs', '$', '1,299.99', '--', 'way', 'too', 'much', '!']
+ spaCy  : ['It', 'costs', '$', '1,299.99', '--', 'way', 'too', 'much', '!']
+text : The 15-inch Windows 8 laptop's e-mail app can't sync.
+ split(): ['The', '15-inch', 'Windows', '8', "laptop's", 'e-mail', 'app', "can't", 'sync.']
+ NLTK   : ['The', '15-inch', 'Windows', '8', 'laptop', "'s", 'e-mail', 'app', 'ca', "n't", 'sync', '.']
+ spaCy  : ['The', '15', '-', 'inch', 'Windows', '8', 'laptop', "'s", 'e', '-', 'mail', 'app', 'ca', "n't", 'sync', '.']
+text : Great laptop...battery lasts 8hrs!
+ split(): ['Great', 'laptop...battery', 'lasts', '8hrs!']
+ NLTK   : ['Great', 'laptop', '...', 'battery', 'lasts', '8hrs', '!']
+ spaCy  : ['Great', 'laptop', '...', 'battery', 'lasts', '8hrs', '!']
+
+=== 2.2 Stem vs lemma ===
+word        Porter      spaCy lemma
+batteries   batteri     battery
+studies     studi       study
+was         wa          be
+scratches   scratch     scratch
+running     run         run
+faster      faster      fast
+
+=== 2.3 Before / after ===
+original : I charge it at night and skip taking the cord with me because of the good battery life.
+cleaned  : charge night skip take cord good battery life 
+
+original : The tech guy then said the service center does not do 1-to-1 exchange and I have to direct my concern to the "sales" team, which is the retail shop which I bought my netbook from.
+cleaned  : tech guy say service center not exchange direct concern sale team retail shop buy netbook 
+
+negation kept -> Oh yeah, don't forget the expensive shipping to and from HP. 
+              -> oh yeah not forget expensive shipping hp
+
+chosen seed: 175 | max class-ratio deviation in val/test: 0.7 points
+
+=== 2.4 Split (no sentence appears in two splits) ===
+       sentences  pairs
+split                  
+train       2131   1622
+val          457    348
+test         457    343
+polarity  negative  neutral  positive
+split                                
+train         37.5     19.8      42.7
+val           37.6     19.8      42.5
+test          36.7     20.4      42.9
+
+class weights (train): {'negative': 0.888, 'neutral': 1.684, 'positive': 0.781}
+
+Saved: pairs_prep.csv, sents_prep.pkl, class_weights.json

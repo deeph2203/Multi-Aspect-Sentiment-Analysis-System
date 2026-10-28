@@ -1,0 +1,3 @@
+model,split,exact_P,exact_R,exact_F1,partial_P,partial_R,partial_F1
+Rule baseline (nouns),val,0.212,0.756,0.331,0.271,0.934,0.42
+Rule baseline (nouns),test,0.202,0.723,0.316,0.261,0.901,0.405

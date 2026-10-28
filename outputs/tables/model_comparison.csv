@@ -1,0 +1,11 @@
+model,val_macro_f1,test_acc,test_macro_f1,test_macro_f1_std,test_weighted_f1,cv5_macro_f1,cv5_std,pct_over_rule_baseline
+Rule-based (VADER),0.494,0.499,0.475,,0.501,,,0.0
+Naive Bayes,0.606,0.636,0.565,,0.614,0.574,0.029,19.004
+SVM (linear),0.621,0.656,0.595,,0.643,0.584,0.023,25.296
+Logistic Regression,0.608,0.647,0.608,,0.65,0.606,0.036,28.221
+LogReg - whole sentence (no aspect),0.609,0.606,0.538,,0.597,0.586,0.021,13.468
+CNN (aspect window),0.684,0.666,0.626,0.002,0.665,,,31.891
+BiLSTM (no aspect),0.689,0.624,0.58,0.013,0.631,,,22.332
+BiLSTM + aspect attention,0.638,0.604,0.565,0.005,0.607,,,19.018
+Position-Aware BiLSTM,0.647,0.641,0.617,0.006,0.644,,,29.895
+BERT (sentence + aspect),0.738,0.743,0.716,,0.747,,,50.852

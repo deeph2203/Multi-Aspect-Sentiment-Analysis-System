@@ -1,0 +1,11 @@
+category,n,accuracy,macro_f1
+other,73,0.493,0.473
+software/OS,60,0.55,0.54
+design/hardware,46,0.609,0.525
+screen/display,33,0.697,0.67
+keyboard/input,30,0.633,0.601
+performance/speed,25,0.56,0.448
+support/service,23,0.478,0.471
+features/usability,22,0.727,0.281
+battery/power,19,1.0,1.0
+price/value,12,0.667,

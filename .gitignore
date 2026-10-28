@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large embeddings (331 MB GloVe vectors - download via scripts/run_step1_data.py)
+data/glove.6B.100d.txt
+*.zip
+*.tar.gz
+
+# Frontend dependencies and build artifacts
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.dist/
+dist/
+
+# Microsoft Word lock & temp files
+~$*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/

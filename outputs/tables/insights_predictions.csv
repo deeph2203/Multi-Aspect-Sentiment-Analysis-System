@@ -1,0 +1,348 @@
+review,aspect,category,sentiment,confidence
+"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",features,features/usability,neutral,0.877
+"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",ichat,other,positive,0.662
+"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",photobooth,other,positive,0.672
+Needless to say a PC that can't support a cell phone is less than useless!,cell phone,other,negative,0.986
+I took it back for an Asus and same thing- blue screen which required me to remove the battery to reset.,battery,battery/power,negative,0.555
+"I also got the added bonus of a 30"" HD Monitor, which really helps to extend my screen and keep my eyes fresh!",hd monitor,screen/display,neutral,0.676
+The best thing about this laptop is the price along with some of the newer features.,price,price/value,positive,0.92
+The best thing about this laptop is the price along with some of the newer features.,features,features/usability,neutral,0.793
+I had always used PCs and been constantly frustrated by the crashing and the poorly designed operating systems that were never very intuitive.,operating systems,other,positive,0.694
+"Then, within 5 months, the charger crapped out on me.",charger,battery/power,negative,0.965
+"still testing the battery life as i thought it would be better, but am very happy with the upgrade.",battery life,battery/power,negative,0.707
+"Oh yeah, don't forget the expensive shipping to and from HP.",shipping,support/service,negative,0.82
+"And if you do a lot of writing, editing is a problem since there is no  forward delete  key.",key,keyboard/input,negative,0.969
+Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.,use,features/usability,positive,0.534
+Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.,top service,support/service,negative,0.97
+"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",battery life,battery/power,positive,0.847
+"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",web browsing,other,positive,0.598
+"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",word editing,other,neutral,0.59
+"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",office,software/OS,positive,0.461
+"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",gaming,performance/speed,neutral,0.973
+"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.",battery life,battery/power,positive,0.847
+"I also purchased Office Max's ""Max Assurance"" with the ""no lemon"" clause.",office max,software/OS,negative,0.546
+) I also tried the touch pad and compared it to other netbooks in the store.,touch pad,keyboard/input,neutral,0.576
+My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.,vga port,design/hardware,neutral,0.59
+My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.,screen,screen/display,positive,0.919
+"One drawback, I wish the keys were backlit.",keys,keyboard/input,negative,0.637
+I've been impressed with the battery life and the performance for such a small amount of memory.,battery life,battery/power,positive,0.995
+I've been impressed with the battery life and the performance for such a small amount of memory.,performance,performance/speed,positive,0.819
+I've been impressed with the battery life and the performance for such a small amount of memory.,memory,performance/speed,positive,0.812
+"My dad has one of the very first Toshibas ever made, yes its abit slow now but still works well and i hooked to my ethernet!",works,performance/speed,positive,0.974
+"After a little more than a year of owning my MacBook Pro, the monitor has completely died.",monitor,screen/display,negative,0.957
+"The display is incredibly bright, much brighter than my PowerBook and very crisp.",display,screen/display,positive,0.999
+The start menu is not the easiest thing to navigate due to the stacking.,start menu,other,negative,0.908
+The start menu is not the easiest thing to navigate due to the stacking.,navigate,features/usability,positive,0.986
+The screen is bright and the keyboard is nice;,screen,screen/display,positive,0.993
+The screen is bright and the keyboard is nice;,keyboard,keyboard/input,positive,0.915
+But the machine is awesome and iLife is great and I love Snow Leopard X.,ilife,software/OS,positive,1.0
+But the machine is awesome and iLife is great and I love Snow Leopard X.,snow leopard x.,other,positive,0.998
+I bought a protector for my key pad and it works great :),key pad,keyboard/input,positive,0.976
+"That's right, no power, absolutely NOTHING.",power,battery/power,negative,0.871
+My wireless system would not recognize Windows 7 and I couldn't get online to find out why.,wireless system,software/OS,negative,0.83
+My wireless system would not recognize Windows 7 and I couldn't get online to find out why.,windows 7,software/OS,positive,0.372
+But Sony said we could send it back and be charged for adding the bluetooth an additional seventy something dollars.,bluetooth,design/hardware,negative,0.998
+It does not even have the software to play a dvd now.,software,software/OS,negative,0.892
+It does not even have the software to play a dvd now.,dvd,design/hardware,negative,0.982
+"  upon giving them the serial number the first thing I was told, was that it was out of warranty and I could pay to have it repaired.",warranty,support/service,negative,0.732
+None of the techs at HP knew what they were doing.,techs,other,negative,0.923
+It runs perfectly.,runs,performance/speed,positive,0.822
+  Sometimes the screen even goes black on this computer.,screen,screen/display,negative,0.911
+"Who couldn't love a DVD burner, 80-gigabyte HD, and fairly new graphics chip? As I soon discovered, though, there is a reason for which similarly-configured Sony and Toshiba machines cost more: they use higher-quality components that are faster, better-configured, and end up lasting a lot longer.",dvd burner,design/hardware,negative,0.991
+"Who couldn't love a DVD burner, 80-gigabyte HD, and fairly new graphics chip? As I soon discovered, though, there is a reason for which similarly-configured Sony and Toshiba machines cost more: they use higher-quality components that are faster, better-configured, and end up lasting a lot longer.",graphics chip,screen/display,positive,0.917
+"Who couldn't love a DVD burner, 80-gigabyte HD, and fairly new graphics chip? As I soon discovered, though, there is a reason for which similarly-configured Sony and Toshiba machines cost more: they use higher-quality components that are faster, better-configured, and end up lasting a lot longer.",higher-quality components,design/hardware,positive,0.949
+The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.,salesman,other,negative,0.994
+The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.,software,software/OS,negative,0.991
+Like the price and operation.,price,price/value,positive,0.78
+Like the price and operation.,operation,features/usability,negative,0.591
+the whole experiece is horrible so save up and buy a better laptop.,whole experiece,other,positive,0.931
+"Three weeks after I bought the netbook, the screen quit working.",screen,screen/display,negative,0.508
+I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV.,intel core processors,other,negative,0.902
+I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV.,hdmi port,design/hardware,neutral,0.626
+"  The computer is so slow, even after paying staples the extra money to speed it up.",speed,performance/speed,negative,0.755
+It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.,software,software/OS,negative,0.475
+"It is well worth the money it cost, Very good investment.",cost,price/value,negative,0.864
+Now for the hardware problems.,hardware,design/hardware,negative,0.924
+Features like the font are very block-like and old school.,features,features/usability,neutral,0.591
+Features like the font are very block-like and old school.,font,other,positive,0.98
+Windows is also rather unsteady on its feet and is susceptible to many bugs.,windows,software/OS,negative,0.867
+"After sending out documents via email and having recipients tell me they could not open the documents or they came through as gibberish, I broke down and spent another $100 to get Microsoft Word for Mac.",microsoft word,other,negative,0.978
+Boots up fast and runs great!,boots up,performance/speed,positive,0.999
+Boots up fast and runs great!,runs,performance/speed,positive,0.997
+Lightweight and the screen is beautiful!,screen,screen/display,positive,0.995
+"Call tech support, standard email the form and fax it back in to us.",tech support,support/service,negative,0.599
+The size is perfect and I do not recomend anything bigger except for any person who can exceed the limited space it gives you.,size,design/hardware,positive,0.947
+"For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload.",bluetooth,design/hardware,negative,0.998
+"For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload.",launch manager,other,negative,0.627
+"For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload.",drivers/applications dvd,software/OS,negative,0.461
+I bought this notebook and only had it for 3 months If it is overload with updates the BOOT MGR.,boot mgr,performance/speed,negative,0.869
+The price and features more than met my needs.,price,price/value,positive,0.83
+The price and features more than met my needs.,features,features/usability,positive,0.597
+"Also, HDD secures inside using rails, and there is only one set on the main hard drive.",hdd,other,neutral,0.981
+"Also, HDD secures inside using rails, and there is only one set on the main hard drive.",rails,other,neutral,0.902
+"Also, HDD secures inside using rails, and there is only one set on the main hard drive.",hard drive,design/hardware,neutral,0.839
+"I have a lapdesk which I can use, but I can still feel the heat through the foam and plastic.",heat,design/hardware,positive,0.587
+"I have a lapdesk which I can use, but I can still feel the heat through the foam and plastic.",foam,other,neutral,0.774
+"I have a lapdesk which I can use, but I can still feel the heat through the foam and plastic.",plastic,other,neutral,0.926
+  I took the computer back in yet again except this time they kept it to send into their Geek Squad headquarters.,geek squad headquarters,other,neutral,0.694
+The price is another driving influence that made me purchase this laptop.,price,price/value,negative,0.488
+It is stamped and not in pieces therefore it is a stronger more resilient frame.,pieces,other,negative,0.801
+It is stamped and not in pieces therefore it is a stronger more resilient frame.,frame,other,negative,0.756
+This is the complete opposite to an ergonomic design.,design,design/hardware,negative,0.551
+"Wireless has not been a issue for me, like some others have meantioned.",wireless,other,negative,0.936
+"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.",battery life,battery/power,negative,0.877
+"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.",background,other,negative,0.987
+"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.",programs,software/OS,neutral,0.494
+Another thing is that after only a month the left mouse key broke and it costed $175 to send it in to fix it.,left mouse key broke,keyboard/input,negative,0.991
+The black model also has a very nice seamless appearance - one of the better looking notebooks I've seen.,appearance,design/hardware,positive,0.855
+"Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.",use,features/usability,positive,0.999
+"Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.",screen,screen/display,positive,0.998
+That being said after 2 weeks of owning every time I start it up now it gives me a black screen for 5-8 seconds stating pxe-e61 media test error check cable.,screen,screen/display,neutral,0.967
+although its windows vista compared to windows xp sucks.,windows vista,software/OS,neutral,0.51
+although its windows vista compared to windows xp sucks.,windows xp sucks,software/OS,neutral,0.637
+It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,touch control buttons,keyboard/input,negative,0.958
+It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,keyboard,keyboard/input,neutral,0.734
+I recently purchased the mini and absolutely love it!,mini,other,positive,0.893
+Ive had to call tech support many times.,tech support,support/service,negative,0.718
+The case is carved out of a single block of aluminum.,case,design/hardware,negative,0.753
+The case is carved out of a single block of aluminum.,aluminum,other,negative,0.694
+"the features are great, the only thing it needs is better speakers.",features,features/usability,positive,0.969
+"the features are great, the only thing it needs is better speakers.",speakers,design/hardware,positive,0.511
+"It was still working, but there was nothing on the screen.",screen,screen/display,negative,0.985
+  Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it.,extended warrenty,support/service,negative,0.953
+"Navigation through the computer is far superior compared to Windows operating systems, as well.",navigation,other,positive,0.4
+"Navigation through the computer is far superior compared to Windows operating systems, as well.",windows operating systems,software/OS,neutral,0.687
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",picture,screen/display,positive,0.993
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",video,screen/display,neutral,0.957
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",music software,software/OS,neutral,0.587
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",grade software,software/OS,neutral,0.948
+The feature are good enough for what I need.,feature,features/usability,positive,0.996
+""" This isn't a big deal, I haven't noticed the issue with DVDs or other media, only through USB output.",usb output,design/hardware,negative,0.94
+my niece and nephew have played a few web games and it runs anything that doesn't require a dedicated video card.,web games,performance/speed,neutral,0.993
+my niece and nephew have played a few web games and it runs anything that doesn't require a dedicated video card.,video card,screen/display,negative,0.455
+"The processor went on me, the fan went and the motherboard went.",processor,performance/speed,neutral,0.689
+"The processor went on me, the fan went and the motherboard went.",fan,design/hardware,neutral,0.831
+"The processor went on me, the fan went and the motherboard went.",motherboard,design/hardware,neutral,0.831
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",snow leopard,other,neutral,0.976
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",ghz c2d,other,neutral,0.875
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",spinning wheel,other,negative,0.894
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",office mac applications,software/OS,neutral,0.482
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",word,other,negative,0.992
+After 20-30 min the screen of the notebook switched off.,screen,screen/display,neutral,0.822
+THis computer may be small but it is one heck of a power horse.,power horse,battery/power,negative,0.951
+My laptop now has no battery.,battery,battery/power,negative,0.593
+You have to toss out the wifi card and replace it just to have any sort of network capability.,wifi card,design/hardware,negative,0.767
+"It pretty much does everything we could ever need, and looks great to boot.",boot,performance/speed,negative,0.991
+"So, owing to these problems, I went out and got myself an Apple MacBook Pro, which I am using with great satisfaction at this very moment.",satisfaction,other,positive,0.487
+"  Stupidly, mind-numbingly slow--then I found it can only be loaded with 2GB *maximum*.",maximum,other,neutral,0.779
+"Screen is a bit glossy, but that's not too bad.",screen,screen/display,negative,0.946
+"Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.",programs,software/OS,negative,0.433
+"Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.",programs,software/OS,negative,0.433
+"I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",windows,software/OS,neutral,0.981
+"I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",web programming software,software/OS,neutral,0.88
+If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.,applications,software/OS,neutral,0.666
+Great product by Apple with the new great looking design.,design,design/hardware,positive,0.999
+"Also, the space bar makes a noisy click every time you use it.",space bar,design/hardware,positive,0.927
+The Computer itself is a good product but the repair depot stinks.,repair depot stinks,support/service,negative,0.712
+I thought the price was great for the specs.,price,price/value,positive,0.97
+I thought the price was great for the specs.,specs,features/usability,positive,0.802
+Very fast boot up and shut down.,boot up,performance/speed,positive,0.598
+"But to be honest, the compatibility issues and the other little quirks make me think I ll buy a PC next time.",compatibility issues,other,negative,0.98
+"The computer continued to give me issues and in Late June it completely died again and I tried to call Acer again to get it fixed and they refused to help me, they said my warrenty was up and hung up on me.",warrenty,support/service,negative,0.85
+Connecting to my wireless router via built-in wireless took no time at all.,wireless router via built-in wireless,design/hardware,neutral,0.843
+This computer is exceptionally thin for it's screen size and processing power.,screen size,screen/display,positive,0.934
+This computer is exceptionally thin for it's screen size and processing power.,processing power,battery/power,positive,0.861
+I have not had a problem with the applications quitting or freezing.,applications,software/OS,neutral,0.561
+"Maybe this is virus related, maybe not, but the computer has locked up many times, and on two occasions, the screen has simply gone black.",screen,screen/display,negative,0.843
+"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",screen,screen/display,positive,0.999
+"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",keyboard,keyboard/input,positive,0.984
+"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",use,features/usability,positive,0.999
+"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",use,features/usability,positive,0.999
+"Whenever tried to turn it on, it would restart as soon as the BIOS launched Windows (or Winblows, as I like ot call it).",bios,software/OS,negative,0.998
+"Whenever tried to turn it on, it would restart as soon as the BIOS launched Windows (or Winblows, as I like ot call it).",windows,software/OS,neutral,0.885
+"Whenever tried to turn it on, it would restart as soon as the BIOS launched Windows (or Winblows, as I like ot call it).",winblows,other,neutral,0.706
+"I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs.",windows,software/OS,neutral,0.978
+"I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs.",bootcamp,other,positive,0.895
+"I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs.",couple programs,software/OS,neutral,0.948
+"I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs.",cad programs,software/OS,neutral,0.97
+  I could not find a phone number anywhere to call an actual live person for tech support and had to result the their online chat.,tech support,support/service,negative,0.69
+  I could not find a phone number anywhere to call an actual live person for tech support and had to result the their online chat.,online chat,other,negative,0.993
+Its white color is stylish for college students and easy to take to carry and take to classes.,color,other,positive,0.998
+Its white color is stylish for college students and easy to take to carry and take to classes.,carry,design/hardware,positive,0.988
+There is nothing to complain about the system.,system,software/OS,negative,0.936
+"Now the screen is going darker, darker, darker.",screen,screen/display,positive,0.947
+Vista is a nightmare.,vista,software/OS,negative,0.796
+I dislike the quality and the placement of the speakers.,quality,design/hardware,positive,0.908
+I dislike the quality and the placement of the speakers.,placement,other,positive,0.875
+I dislike the quality and the placement of the speakers.,speakers,design/hardware,negative,0.572
+"But, for the cost this is a winner.",cost,price/value,negative,0.971
+"  Also, the battery does not last very long at all.",battery,battery/power,negative,0.967
+I don't understand why only Windows 7 Starter is included.,windows 7 starter,software/OS,negative,0.383
+"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",value,price/value,positive,0.947
+The ease of use is wonderful.,use,features/usability,positive,0.994
+"Also, macbooks come with much more features which are so cool!",macbooks,other,positive,0.913
+"Also, macbooks come with much more features which are so cool!",features,features/usability,positive,0.872
+"The computer loads in about a 1/10th of the time that my PC did, and I have all of the programs that were on my PC.",programs,software/OS,neutral,0.891
+"The newer black keyboard took a little bit away from the previous gray one which looked really slick, but it is still a great notebook!",black keyboard,keyboard/input,positive,0.578
+"As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications.",software options,software/OS,negative,0.885
+"As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications.",applications,software/OS,neutral,0.533
+Or the cursor would show up some place else.,cursor,other,negative,0.985
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",screen,screen/display,positive,0.93
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",keyboard,keyboard/input,neutral,0.956
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",mouse,keyboard/input,neutral,0.985
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",screen,screen/display,positive,0.93
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",island backlit keyboard,keyboard/input,positive,0.957
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",multi-touch mouse,keyboard/input,positive,0.981
+When I got the computer back and realizwed it still was not correct HP told me it was out of warranty and now it was my problem.,warranty,support/service,negative,0.689
+It also came with a built it web cam which is great because I can see an communicate with my family members back home.,web cam,other,negative,0.56
+"I was a little weary at purchasing another 13"" macbook almost 2 years later but t looks like the newer macbooks have gotten its current line of graphics cards in order this time around.",graphics cards,screen/display,neutral,0.638
+"I had of course bought a 3 year warranty, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement.",warranty,support/service,neutral,0.774
+I loved the netbook (minus the fact that it was windows OS) until this started happening.,windows os,software/OS,neutral,0.682
+"Was disappointed to find out that the model had been discontinued, apparently because of known motherboard problems.",motherboard,design/hardware,negative,0.893
+Recently there are a few incidents that annoy the hell out of me.,hell,other,negative,0.963
+It is easily portable and I take it everywhere I go and might require internet access.,internet access,software/OS,positive,0.953
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.,keyboard,keyboard/input,neutral,0.527
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.,keyboard,keyboard/input,neutral,0.527
+Asked the customer service rep.,customer service rep,support/service,negative,0.45
+I looked at the computer and it said updating but the asked for a product key.,product key,keyboard/input,negative,0.969
+"Just keep in mind the graphics is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.",graphics,screen/display,neutral,0.683
+"Just keep in mind the graphics is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.",movie,other,positive,0.458
+"Just keep in mind the graphics is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.",graphics card,screen/display,negative,0.915
+"the mouse on the pad, the left button always sticks.",mouse,keyboard/input,negative,0.585
+"the mouse on the pad, the left button always sticks.",pad,keyboard/input,negative,0.685
+"the mouse on the pad, the left button always sticks.",left button,keyboard/input,negative,0.977
+The programs that come standard with the Leopard running system are enough for the average person to run all the basics.,programs,software/OS,neutral,0.824
+The programs that come standard with the Leopard running system are enough for the average person to run all the basics.,leopard running system,software/OS,neutral,0.947
+"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".",lg service center,support/service,neutral,0.876
+"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".",service,support/service,neutral,0.447
+"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".",service center,support/service,neutral,0.891
+I wasn't really as concerned about portability (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.,portability,design/hardware,positive,0.991
+-Computer crashed frequently and battery life decreased very quickly.,battery life,battery/power,negative,0.836
+I called their repair depot as was told they would send Me a new box to return the computer to the repair depot.,repair depot,support/service,neutral,0.868
+I called their repair depot as was told they would send Me a new box to return the computer to the repair depot.,repair depot,support/service,neutral,0.868
+It's also fairly easy to use the Operating System.,use,features/usability,positive,0.966
+It's also fairly easy to use the Operating System.,operating system,software/OS,positive,0.612
+"I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.",ms office,software/OS,negative,0.447
+"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",portability,design/hardware,positive,0.992
+"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",longevity,other,positive,0.992
+"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",use,features/usability,positive,0.996
+"Even though it is much more expensive than many PC laptops, it is worth the price.",price,price/value,positive,0.916
+Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,keyboard shortcuts,keyboard/input,neutral,0.916
+Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,windows,software/OS,neutral,0.919
+"Other installed features, such as certain printer software, are also most attractive.",features,features/usability,positive,0.714
+"Other installed features, such as certain printer software, are also most attractive.",printer software,software/OS,positive,0.45
+"It had a seventeen inch screen which I wanted, but I didn't realize at the time it would be such a monster!",seventeen inch screen,screen/display,negative,0.951
+The iLife software that comes with the computer is so simple to use and produces a great finished product.,ilife software,software/OS,positive,0.963
+"PC users work in Word, while Mac users work in Pages.",word,other,negative,0.928
+"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",internet,software/OS,neutral,0.754
+"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",gaming,performance/speed,neutral,0.943
+"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",applications,software/OS,neutral,0.906
+"Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.",gaming capabilities,performance/speed,positive,0.525
+"Everything about the Mac is not only visually appealing, but very easy to use.",use,features/usability,positive,0.937
+The laptop is outstanding in all aspects except that it has the Windows 7 starter and not the full Windows 7.,windows 7 starter,software/OS,positive,0.847
+The laptop is outstanding in all aspects except that it has the Windows 7 starter and not the full Windows 7.,windows 7,software/OS,positive,0.77
+"The DVD drive randomly pops open when it is in my backpack as well, which is annoying.",dvd drive,design/hardware,negative,0.641
+"however, they were kind enough to send a replacement free of charge.",charge,battery/power,negative,0.676
+"Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.",design,design/hardware,positive,0.996
+"Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.",array,other,positive,0.995
+I'm tired of the inept service.,service,support/service,positive,0.763
+"Info: Windows failed to load because the kernal is missing, or corrupt.",windows,software/OS,negative,0.749
+"Info: Windows failed to load because the kernal is missing, or corrupt.",kernal,other,negative,0.775
+"The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.",display,screen/display,positive,0.998
+"The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.",battery life,battery/power,positive,0.996
+"I have in the past gotten superfine sandpaper and ""fixed"" the edges by rounding them off.",superfine sandpaper,other,negative,0.915
+"I have in the past gotten superfine sandpaper and ""fixed"" the edges by rounding them off.",edges,design/hardware,negative,0.985
+I had it four months when my disc drive refused to open.,disc drive,design/hardware,negative,0.537
+"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.",design tools,design/hardware,neutral,0.551
+"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.",looking documents,other,positive,0.987
+"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.",presentations,other,neutral,0.58
+" I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",hard drive,design/hardware,neutral,0.657
+" I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",mother board,design/hardware,negative,0.587
+" I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",dvd drive,design/hardware,negative,0.98
+"The guy then said that if I insist on having the hinge tightened, they can do it for me but I have to accept the condition after the ""repair"".",hinge,design/hardware,negative,0.984
+Now I have the best of both worlds with all of the power and ease of the Mac!,power,battery/power,positive,0.984
+) And printing from either word processor is an adventure.,word processor,performance/speed,negative,0.516
+It played various games without problems and ran aero smoothly and flawlessly.,ran,other,positive,0.968
+You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without.,program,software/OS,positive,0.832
+You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without.,pc software,software/OS,neutral,0.936
+power supply went bad after 2 weeks --,power supply,battery/power,negative,0.701
+"The screen takes some getting use to, because it is smaller than the laptop.",screen,screen/display,neutral,0.533
+"The Final Cut Pro on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.",final cut,other,neutral,0.867
+"After years of using PCs, a new Mac user is basically forced to re-learn how to use a computer.",mac user,software/OS,positive,0.541
+"The ""abuse"" is that I pushed the power plug in too hard.",power plug,battery/power,negative,0.994
+"It is easy to find documents, and keep them in one area.",find documents,other,positive,0.513
+"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.",programs,software/OS,positive,0.79
+"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.",ilife,software/OS,positive,0.996
+"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.",iwork,software/OS,positive,0.906
+The AC power port becomes loose over time,ac power port,battery/power,negative,0.958
+It's the inside that is truly wonderful.,inside,other,positive,0.97
+Which is great I am running Vista Business and scored a 5.X on the index I have never seen a windows machine have a total score in the 5's.,vista business,software/OS,neutral,0.836
+"We love the size of the screen, although it is still lightweight and very easy to tote around.",size,design/hardware,positive,0.993
+"We love the size of the screen, although it is still lightweight and very easy to tote around.",screen,screen/display,positive,0.998
+"We love the size of the screen, although it is still lightweight and very easy to tote around.",tote,other,positive,0.994
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",built,design/hardware,positive,0.992
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",look,design/hardware,positive,0.999
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",price,price/value,positive,0.935
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",performance,performance/speed,neutral,0.588
+"Also, I issued a replacement RMA for a few dead pixels in the upper zone of the screen, which is noticable to me.",screen,screen/display,negative,0.496
+I especially like the backlit keyboard.,backlit keyboard,keyboard/input,positive,0.96
+"The sound is a bit quiet if you're on a plane, this can easily be overcome with a decent pair of head phones.",sound,design/hardware,negative,0.976
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),sata controller,other,negative,0.92
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),motherboard chip,design/hardware,neutral,0.558
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),hard drive,design/hardware,neutral,0.79
+My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.,fuzz sound,design/hardware,negative,0.994
+My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.,headphone jack,other,negative,0.98
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",size,design/hardware,positive,0.999
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",features,features/usability,positive,0.959
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",lighted keyboard,keyboard/input,positive,0.992
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",easy mouse pad,keyboard/input,positive,0.997
+We paid for the three year warranty and the extended warranty after that one ended as well.,warranty,support/service,neutral,0.707
+We paid for the three year warranty and the extended warranty after that one ended as well.,extended warranty,support/service,neutral,0.898
+"I acually believe the issue is with the Nvidia grafics card, but still requires a return.",nvidia grafics card,other,negative,0.843
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,added feature,features/usability,positive,0.997
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,keyboard,keyboard/input,positive,0.897
+The only time I have restarted is during system updates.,system updates,software/OS,negative,0.925
+"The lesson learned here is: It does not pay to by this loyal to any brand, since all of them are there to simply  to make as much money as possible, as fast as they can, and in this day and age, the customer no longer is right all the times.",lesson,other,negative,0.987
+"The lesson learned here is: It does not pay to by this loyal to any brand, since all of them are there to simply  to make as much money as possible, as fast as they can, and in this day and age, the customer no longer is right all the times.",customer,support/service,negative,0.996
+"The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.",applications,software/OS,positive,0.978
+"The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.",find,other,positive,0.981
+"The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.",maneuver,other,positive,0.988
+The large screen gives you the option to comfortably watch movies or TV shows on your computer instead of buying an additional TV for your dorm room.,screen,screen/display,neutral,0.738
+"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifant  amount off the price.",components,other,negative,0.996
+"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifant  amount off the price.",price,price/value,positive,0.561
+"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifant  amount off the price.",price,price/value,positive,0.561
+sometimes you will be moving your finger and the pointer will not even move.,pointer,other,negative,0.987
+The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,touchpad,keyboard/input,negative,0.985
+The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,usb,design/hardware,negative,0.959
+The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,touchpad,keyboard/input,negative,0.985
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",keys,keyboard/input,neutral,0.868
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",keyboard,keyboard/input,neutral,0.641
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",paint,other,negative,0.887
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",mouse pad,keyboard/input,negative,0.89
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",screen,screen/display,neutral,0.865
+It is easy to navigate and update programs.,navigate,features/usability,positive,0.996
+It is easy to navigate and update programs.,update programs,software/OS,positive,0.708
+"All in all, a very disappointing experience except that I learned how good the Geek Squad is and also Customer Service.",geek squad,other,positive,0.996
+"All in all, a very disappointing experience except that I learned how good the Geek Squad is and also Customer Service.",customer service,support/service,positive,0.788
+"The only drawback for me is how dirty the screen gets, and rather quickly too.",screen,screen/display,negative,0.953
+This computer was so challenging to carry and handle.,carry,design/hardware,positive,0.505
+This computer was so challenging to carry and handle.,handle,other,negative,0.869
+"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",memory,performance/speed,neutral,0.652
+"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",base windows 7 starter,software/OS,positive,0.985
+"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",win 7 home,other,positive,0.949
+"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.",runs,performance/speed,positive,0.931
+The book is useless.,book,other,negative,0.797
+"The battery life, before the battery completely died of course, left much to be desired.",battery life,battery/power,negative,0.979
+"The battery life, before the battery completely died of course, left much to be desired.",battery,battery/power,negative,0.989
+Wonderful zooming.,zooming,other,positive,0.98
+This is a great little computer for the price.,price,price/value,positive,0.952
+"Crisp screen, great battery life, and plenty of storage.",screen,screen/display,positive,0.998
+"Crisp screen, great battery life, and plenty of storage.",battery life,battery/power,positive,0.997
+"Crisp screen, great battery life, and plenty of storage.",storage,design/hardware,positive,0.997
+"Also, my sister got the exact same laptop (since they were so cheap) and after 8 months, the screen split in half just from everyday use.",screen,screen/display,neutral,0.926
+"I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",iwork,software/OS,neutral,0.914
+"I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",ms office,software/OS,neutral,0.51
+"I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",mac,software/OS,positive,0.974
+"I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.",ms office,software/OS,neutral,0.51
+"The laptop is relatively simple to use, though I bought  Macs for Dummies,  which is well worth $2",use,features/usability,positive,0.956
+"The laptop is relatively simple to use, though I bought  Macs for Dummies,  which is well worth $2",dummies,other,neutral,0.872

@@ -1,0 +1,458 @@
+sentence_id,text,gold,predicted,correct
+2193,"The other day I had a presentation to do for a seminar at a large conference in town- lots of people, little time to prep and have to set up a computer to a projector, etc.",[],[],True
+76,"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!","['features', 'iChat', 'Photobooth', 'garage band']","['features', 'iChat', 'Photobooth']",False
+747,Needless to say a PC that can't support a cell phone is less than useless!,[],['cell phone'],False
+1630,I took it back for an Asus and same thing- blue screen which required me to remove the battery to reset.,['battery'],['battery'],True
+1155,I can't even turn it off.,[],[],True
+2227,"I also got the added bonus of a 30"" HD Monitor, which really helps to extend my screen and keep my eyes fresh!","['30 "" HD Monitor', 'screen']",['HD Monitor'],False
+535,What a waste.,[],[],True
+1005,"They were great in handling this problem, and I'm looking forward in purchasing additonal products from them in the future.",[],[],True
+3073,The best thing about this laptop is the price along with some of the newer features.,"['price', 'features']","['price', 'features']",True
+2383,Has met or exceeded my needs for a compact travel device.,[],[],True
+1473,And this isn't just my one experine.,[],[],True
+1669,"It's like 9 punds, but if you can look past it, it's GREAT!",['9 punds'],[],False
+2423,This machine delivers.,[],[],True
+645,I complain again...,[],[],True
+72,This is now my 3rd MacBook Pro and I really honestly love it!,[],[],True
+1149,I had always used PCs and been constantly frustrated by the crashing and the poorly designed operating systems that were never very intuitive.,['operating systems'],['operating systems'],True
+900,"Then, within 5 months, the charger crapped out on me.",['charger'],['charger'],True
+2381,"still testing the battery life as i thought it would be better, but am very happy with the upgrade.",['battery life'],['battery life'],True
+407,"Oh yeah, don't forget the expensive shipping to and from HP.",['shipping'],['shipping'],True
+1863,"  My favorite by far, although the most expensive, was my Sony.",[],[],True
+1186,"And if you do a lot of writing, editing is a problem since there is no  forward delete  key.","['editing', 'delete   key']",['key'],False
+2470,Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.,"['use', 'service', 'phone assistance', 'genius bar-']","['use', 'top service']",False
+331,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.","['battery life', 'web browsing', 'word editing', 'gaming', 'movie playing', 'battery life']","['battery life', 'web browsing', 'word editing', 'office', 'gaming', 'battery life']",False
+2788,I bought it for really cheap also and it's AMAZING.,[],[],True
+1095,"I also purchased Office Max's ""Max Assurance"" with the ""no lemon"" clause.","['Office Max \'s "" Max Assurance ""']",['Office Max'],False
+654,Temperatures on the outside were alright but i did not track in Core Processing Unit temperatures.,"['Temperatures', 'Core Processing Unit temperatures']",[],False
+1573,"It is always reliable, never bugged and responds well.",['responds'],[],False
+1568,This mac is great!,[],[],True
+2433,You may need to special order a bag.,['bag'],[],False
+1635,"With a healthy pessimism, I took the machine home and tried to find a flaw.",[],[],True
+1661,Shiny  This Laptop is the Best of the best!,[],[],True
+2331,) I also tried the touch pad and compared it to other netbooks in the store.,['touch pad'],['touch pad'],True
+788,Breaking within 1 year of purchase and speaking to 4+ people to report the damaged part will be returned late!,[],[],True
+2776,My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.,"['vga port', 'screen']","['vga port', 'screen']",True
+2091,"One drawback, I wish the keys were backlit.",['keys'],['keys'],True
+2385,I've been impressed with the battery life and the performance for such a small amount of memory.,"['battery life', 'performance', 'memory']","['battery life', 'performance', 'memory']",True
+2886,"My dad has one of the very first Toshibas ever made, yes its abit slow now but still works well and i hooked to my ethernet!","['works', 'ethernet']",['works'],False
+1357,"After a little more than a year of owning my MacBook Pro, the monitor has completely died.",['monitor'],['monitor'],True
+311,"The display is incredibly bright, much brighter than my PowerBook and very crisp.",['display'],['display'],True
+2708,The start menu is not the easiest thing to navigate due to the stacking.,"['start menu', 'navigate']","['start menu', 'navigate']",True
+2639,"I loved it then, but unfortunately it was before the days of wireless internet.",[],[],True
+3074,The screen is bright and the keyboard is nice;,"['screen', 'keyboard']","['screen', 'keyboard']",True
+2457,Im very happy with this computer!,[],[],True
+2534,But the machine is awesome and iLife is great and I love Snow Leopard X.,"['iLife', 'Snow Leopard X.']","['iLife', 'Snow Leopard X.']",True
+392,I custom ordered the machine from HP and could NOT understand the techie due to his accent.,['techie'],[],False
+2427,It is a bit heavy.,[],[],True
+2297,Buy this.,[],[],True
+4,I bought a protector for my key pad and it works great :),"['protector', 'key pad']",['key pad'],False
+199,Well i got this computer from Best Buy and I have had nothing but problems I bought the computer with a virus.....,[],[],True
+877,"That's right, no power, absolutely NOTHING.",[],['power'],False
+1291,But I was wrong.,[],[],True
+10,"Obviously, this Macbook is P-E-R-F-E-C-T for me because it does exactly what I need in an easy-to-function way.",[],[],True
+258,"Macs are designed for the ""frontal lobe challenged"" people out there.",[],[],True
+1424,My wireless system would not recognize Windows 7 and I couldn't get online to find out why.,"['wireless system', 'Windows 7']","['wireless system', 'Windows 7']",True
+1239,It is the worst laptop ever,[],[],True
+490,But Sony said we could send it back and be charged for adding the bluetooth an additional seventy something dollars.,['adding the bluetooth'],['bluetooth'],False
+957,  By this time I was regretting ever SEEING this machine on the shelf!,[],[],True
+2022,It does not even have the software to play a dvd now.,['software'],"['software', 'dvd']",False
+1844,"  upon giving them the serial number the first thing I was told, was that it was out of warranty and I could pay to have it repaired.",['warranty'],['warranty'],True
+2030,None of the techs at HP knew what they were doing.,['techs at HP'],['techs'],False
+2166,It runs perfectly.,['runs'],['runs'],True
+824,  Sometimes the screen even goes black on this computer.,['screen'],['screen'],True
+1984,"Who couldn't love a DVD burner, 80-gigabyte HD, and fairly new graphics chip? As I soon discovered, though, there is a reason for which similarly-configured Sony and Toshiba machines cost more: they use higher-quality components that are faster, better-configured, and end up lasting a lot longer.","['DVD burner', 'HD', 'graphics chip', 'components']","['DVD burner', 'graphics chip', 'higher - quality components']",False
+2410,"Mac computers automatically ""defrag"" each time you start your computer.",[],[],True
+1839,The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.,['software'],"['salesman', 'software']",False
+2858,Like the price and operation.,"['price', 'operation']","['price', 'operation']",True
+1969,I also like the acer arcade but these were reallythe only two things I liked about this laptop.,['acer arcade'],[],False
+2838,i tried turning it done but it did nothing.,[],[],True
+2798,the whole experiece is horrible so save up and buy a better laptop.,[],['whole experiece'],False
+1893,"Three weeks after I bought the netbook, the screen quit working.",['screen'],['screen'],True
+1889,Returned laptop for a 4th repair and it came back but now would lock up and randomly reboot frequently making the laptop unusable.,[],[],True
+3072,I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV.,"['Intel Core processors', 'HDMI port']","['Intel Core processors', 'HDMI port']",True
+813,"  The computer is so slow, even after paying staples the extra money to speed it up.",[],['speed'],False
+862,I bought for my son in the 2nd grade.,[],[],True
+622,"-Called MacHouse Amsterdam to ask for a temporary replacement, no answer.",[],[],True
+70,It fires up in the morning in less than 30 seconds and I have never had any issues with it freezing.,['fires up'],[],False
+1734,It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.,['software'],['software'],True
+912,Bought this gateway M-50 or 150 early 2007.,[],[],True
+2956,"It is well worth the money it cost, Very good investment.",['cost'],['cost'],True
+1189,Now for the hardware problems.,['hardware'],['hardware'],True
+2706,Features like the font are very block-like and old school.,"['Features', 'font']","['Features', 'font']",True
+2003,Windows is also rather unsteady on its feet and is susceptible to many bugs.,['Windows'],['Windows'],True
+1180,"After sending out documents via email and having recipients tell me they could not open the documents or they came through as gibberish, I broke down and spent another $100 to get Microsoft Word for Mac.",['Microsoft Word for Mac'],['Microsoft Word'],False
+2443,Boots up fast and runs great!,"['Boots up', 'runs']","['Boots up', 'runs']",True
+81,Lightweight and the screen is beautiful!,['screen'],['screen'],True
+764,"Call tech support, standard email the form and fax it back in to us.",['tech support'],['tech support'],True
+525,"Just a month and a half or two months ago, my VAIO crashed again.",[],[],True
+435,They sent it back with a huge crack in it and it still didn't work.,['work'],[],False
+1696,The size is perfect and I do not recomend anything bigger except for any person who can exceed the limited space it gives you.,"['size', 'space']",['size'],False
+1100,"  So, buyers beware!",[],[],True
+1634,I had finally reached my limit and broke down.,[],[],True
+1064,"For the Bluetooth to work properly, you must install the Launch Manager on the Drivers/Applications DVD, or it will not show after the reload.","['Bluetooth', 'Launch Manager', 'Drivers / Applications DVD']","['Bluetooth', 'Launch Manager', 'Drivers / Applications DVD']",True
+2037,I waited and waited and no laptop.,[],[],True
+922,I bought this notebook and only had it for 3 months If it is overload with updates the BOOT MGR.,['BOOT MGR'],['BOOT MGR'],True
+2863,The price and features more than met my needs.,"['price', 'features']","['price', 'features']",True
+2642,big mistake!,[],[],True
+2887,My friends or children use that when they need to borrow the Net =) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA!,[],[],True
+1080,"Also, HDD secures inside using rails, and there is only one set on the main hard drive.","['HDD', 'rails', 'hard drive']","['HDD', 'rails', 'hard drive']",True
+2695,"If you're not wanting to be mobile, this is a good laptop to sit on a desk.",[],[],True
+2907,"No problems, no lock ups, no disappointments.",[],[],True
+119,"I have a lapdesk which I can use, but I can still feel the heat through the foam and plastic.",[],"['heat', 'foam', 'plastic']",False
+1907,  I took the computer back in yet again except this time they kept it to send into their Geek Squad headquarters.,[],['Geek Squad headquarters'],False
+2374,I have not have any problems.,[],[],True
+2245,It is very user friendly and not hard to figure out at all.,[],[],True
+3064,The price is another driving influence that made me purchase this laptop.,['price'],['price'],True
+2129,It is stamped and not in pieces therefore it is a stronger more resilient frame.,['frame'],"['pieces', 'frame']",False
+36,This is the complete opposite to an ergonomic design.,['design'],['design'],True
+1063,"Wireless has not been a issue for me, like some others have meantioned.",['Wireless'],['Wireless'],True
+271,"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.","['battery life', 'programs']","['battery life', 'background', 'programs']",False
+2927,Another thing is that after only a month the left mouse key broke and it costed $175 to send it in to fix it.,"['left mouse key', 'costed']",['left mouse key broke'],False
+916, Went silently.,[],[],True
+1137,IT IS TRASH!,[],[],True
+2590,So you don't get frustrated the first few weeks.,[],[],True
+2517,The black model also has a very nice seamless appearance - one of the better looking notebooks I've seen.,['appearance'],['appearance'],True
+2700,Handles all my basic media needs easily.,[],[],True
+557,the apple pro notebook will not let you down.,[],[],True
+2987,It works fine with our wireless and they've had not problems.,['works'],[],False
+2787,"Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.","['use', 'screen']","['use', 'screen']",True
+1059,PLEASE MAKE THESE!,[],[],True
+768,This was the 3rd day and part still had not been shipped.,['shipped'],[],False
+2998,That being said after 2 weeks of owning every time I start it up now it gives me a black screen for 5-8 seconds stating pxe-e61 media test error check cable.,[],['screen'],False
+650,"-Stay away from Apple, or hope you laptop does not break down.",[],[],True
+1160,I'm going back to PC.,[],[],True
+1398,although its windows vista compared to windows xp sucks.,"['windows vista', 'windows xp']","['windows vista', 'windows xp sucks']",False
+910,And it is impossible to get them back in.,[],[],True
+2379,My last laptop gave me a constant battle even though it was also completely new.,[],[],True
+344,It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,"['hardrive', 'touch control buttons', 'keyboard']","['touch control buttons', 'keyboard']",False
+288,"There are so many things wrong with this product, it just makes me want to set my self on fire!",[],[],True
+2521,I recently purchased the mini and absolutely love it!,[],['mini'],False
+1008,Ive had to call tech support many times.,['tech support'],['tech support'],True
+1150,I was so happy with my new Mac.,[],[],True
+2647,The case is carved out of a single block of aluminum.,['case'],"['case', 'aluminum']",False
+789,I do not recommend this company or their products!!!!,[],[],True
+668,"the features are great, the only thing it needs is better speakers.","['features', 'speakers']","['features', 'speakers']",True
+1106,"It was still working, but there was nothing on the screen.",['screen'],['screen'],True
+1418,  Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it.,['extended warrenty'],['extended warrenty'],True
+2360,"Navigation through the computer is far superior compared to Windows operating systems, as well.","['Navigation', 'Windows operating systems']","['Navigation', 'Windows operating systems']",True
+2397,I would recommend this product.,[],[],True
+1745,"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.","['picture', 'video', 'music software', 'software']","['picture', 'video', 'music software', 'grade software']",False
+2205,I previously owned an HP desktop and a Dell laptop.,[],[],True
+1090,I WANT MY L505-s5988 BACK!,[],[],True
+216,The Macbook is a fantastic laptop.,[],[],True
+1877,A couple things you should know:,[],[],True
+2865,The feature are good enough for what I need.,['feature'],['feature'],True
+2676,""" This isn't a big deal, I haven't noticed the issue with DVDs or other media, only through USB output.",['USB output'],['USB output'],True
+3083,my niece and nephew have played a few web games and it runs anything that doesn't require a dedicated video card.,['video card'],"['web games', 'video card']",False
+1353,I had less problems.,[],[],True
+1873,"When I got this laptop in 2007 to help me with school, I had a hard time from beginning.",[],[],True
+135,it is the worst computer dell ever made.,[],[],True
+2062,About 1/2 of the sites I need to visit because of my work contain some type of Flash.,[],[],True
+1055,Other Thoughts: Received replacement 16 Days later.,[],[],True
+2032,"The processor went on me, the fan went and the motherboard went.","['processor', 'fan', 'motherboard']","['processor', 'fan', 'motherboard']",True
+150,It is very well built.,['built'],[],False
+1581,Might not make the avid gamer happy but I don't really think that is what this computer is designed for.,[],[],True
+2080,"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.","['Snow Leopard', 'CPU', 'spinning wheel', 'Office Mac applications', 'Word', 'Excel']","['Snow Leopard', 'GHz C2D', 'spinning wheel', 'Office Mac applications', 'Word']",False
+1105,After 20-30 min the screen of the notebook switched off.,['screen'],['screen'],True
+2298,THis computer may be small but it is one heck of a power horse.,[],['power horse'],False
+107,My laptop now has no battery.,['battery'],['battery'],True
+1036,You have to toss out the wifi card and replace it just to have any sort of network capability.,"['wifi card', 'network capability']",['wifi card'],False
+1608,"Luckily, Dell said they would replace my laptop with a new one, but instead I got a refund and bought a mac.",[],[],True
+2610,"It pretty much does everything we could ever need, and looks great to boot.",['boot'],['boot'],True
+2089,"Bottom line, I doubt you'd be overly disappointed if you invest in this machine.",[],[],True
+1998,"So, owing to these problems, I went out and got myself an Apple MacBook Pro, which I am using with great satisfaction at this very moment.",[],['satisfaction'],False
+1698,MY ONLY PROBLEM IS I CAN NOT REG. THE PRODUCT KEY.,['PRODUCT KEY'],[],False
+829,"  Stupidly, mind-numbingly slow--then I found it can only be loaded with 2GB *maximum*.",[],['maximum'],False
+2648,"Although I opted for the lowest end MacBook Pro, this thing holds its own.",[],[],True
+1711,I my wife is also now the proud owner of a Macbook as well!,[],[],True
+2794,I received this laptop as a gift and let me just tell you that its the worst.,[],[],True
+2688,"If you need an affordable, entry-level laptop, this will fit the bill.",[],[],True
+1792,"Screen is a bit glossy, but that's not too bad.",[],['Screen'],False
+546,I upgraded from a 5 year old laptop and was amazed to find out that this computer is much slower then my old laptop.,[],[],True
+2509,"Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.","['programs', 'programs']","['programs', 'programs']",True
+1231,By Air sounds more like by truck to Me.,[],[],True
+1828,If this would be your first Mac purchase then I would highly suggest that you take advantage of the class that they offer to learn about the differences between Mac and PC's.,[],[],True
+2645,"I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.","['pop up windows', 'pop ups', 'web programming software']","['windows', 'web programming software']",False
+1751,Received all four in good order;,[],[],True
+1825,NOT WITH APPLE.,[],[],True
+227,If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.,['applications'],['applications'],True
+2655,Great product by Apple with the new great looking design.,['design'],['design'],True
+1360,"In fact, he said, about 10% of their products fail.",[],[],True
+2059,This is the first Apple product that I have purchased.,[],[],True
+41,"Also, the space bar makes a noisy click every time you use it.",['space bar'],['space bar'],True
+2654,Other than that its a great performing machine and well meets all my needs and more.,['performing'],[],False
+1015,The Computer itself is a good product but the repair depot stinks.,['repair depot'],['repair depot stinks'],False
+144,I thought the price was great for the specs.,"['price', 'specs']","['price', 'specs']",True
+2115,Just for a stupid CD.,[],[],True
+1853,  Then they had me jump through many hoops and questions to see if they could find another way to invalidate me.,[],[],True
+246,Very fast boot up and shut down.,"['boot up', 'shut down']",['boot up'],False
+1206,"But to be honest, the compatibility issues and the other little quirks make me think I ll buy a PC next time.",['compatibility'],['compatibility issues'],False
+1461,"  three years is a decent life, but this must make it to graduation and beyond.",[],[],True
+1122,An absolutely hateful machine that no one should get of their own free will.,[],[],True
+1942,"The computer continued to give me issues and in Late June it completely died again and I tried to call Acer again to get it fixed and they refused to help me, they said my warrenty was up and hung up on me.",['warrenty'],['warrenty'],True
+209,Connecting to my wireless router via built-in wireless took no time at all.,['built - in wireless'],['wireless router via built - in wireless'],False
+2157,This computer is exceptionally thin for it's screen size and processing power.,"['screen size', 'processing power']","['screen size', 'processing power']",True
+301,I have not had a problem with the applications quitting or freezing.,['applications'],['applications'],True
+1190,"Maybe this is virus related, maybe not, but the computer has locked up many times, and on two occasions, the screen has simply gone black.",['screen'],['screen'],True
+791,The computer blinks it shuts off at will.,[],[],True
+2359,"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.","['screen', 'keyboard']","['screen', 'keyboard', 'use', 'use']",False
+1637,"I can do everything I could before, only faster and more efficiently.",[],[],True
+1456,  i dont understand why i spent twice as much to get a laptop rather than a desktop when my lap top is completely immoble.,[],[],True
+669,"Waited on getting this computer, but it has been a great change.",[],[],True
+1993,"Whenever tried to turn it on, it would restart as soon as the BIOS launched Windows (or Winblows, as I like ot call it).","['BIOS', 'Windows']","['BIOS', 'Windows', 'Winblows']",False
+2100,"I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs.","['windows', 'bootcamp', 'programs', 'cad programs']","['windows', 'bootcamp', 'couple programs', 'cad programs']",False
+1331,"C'mon, LG.",[],[],True
+1782,Now they are believers in the product.,[],[],True
+1148,I had never owned a Mac before;,[],[],True
+1843,  I could not find a phone number anywhere to call an actual live person for tech support and had to result the their online chat.,"['tech support', 'online chat']","['tech support', 'online chat']",True
+1767,Its white color is stylish for college students and easy to take to carry and take to classes.,['color'],"['color', 'carry']",False
+2278,It out performs any other laptop on the market today.,[],[],True
+3052,Ive owned Apple computers and laptops for as long as i could remember.,[],[],True
+1032,I'm going back to DELL.,[],[],True
+860,No I am generous calling it slow.,[],[],True
+1477,i love ths notebook.,[],[],True
+1251,I got this laptop on Black Friday.,[],[],True
+2512,There is nothing to complain about the system.,['system'],['system'],True
+405,"Now the screen is going darker, darker, darker.",['screen'],['screen'],True
+2104,This computer is the ideal college companion.,[],[],True
+2662,"BOUGHT FROM WAL-MART, I BELIEVE THAT THIS LAPTOP WAS A REPAIRED ITEM.",[],[],True
+117,It still heats up like mad and I am unable to use it with the computer directly on my lap for more than five to ten minutes at a time.,[],[],True
+1951,I did a lot of research and ended up thinking this Toshiba was the best one for me.,[],[],True
+1354,really no problems with the hand me down computers I received from my children.,[],[],True
+264,Vista is a nightmare.,['Vista'],['Vista'],True
+1102,"Posted Nov 8, 2010 - Two weeks ago I bought this notebook.",[],[],True
+529,"Now I could get myself a cheap computer, that will probably work a whole lot better!",[],[],True
+2054,"Those moments in thime where you want to throw something against the wall? Yeah, I wanted to throw that lap top out the window and light it on fire.",[],[],True
+2690,I dislike the quality and the placement of the speakers.,['speakers'],"['quality', 'placement', 'speakers']",False
+67,i would really recommend to any person out there to get this laptop cause its really worth it.,[],[],True
+1720,Otherwise this little notebook has met all my expectations.,[],[],True
+2016,My son said it popped up and he clicked update.,[],[],True
+2860,"But, for the cost this is a winner.",['cost'],['cost'],True
+817,"  Also, the battery does not last very long at all.",['battery'],['battery'],True
+2386,I don't understand why only Windows 7 Starter is included.,['Windows 7 Starter'],['Windows 7 Starter'],True
+18,"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.","['functionality', 'value', 'look', 'simplicity']",['value'],False
+1610,My macbook is so much better looking and so thin!,['looking'],[],False
+998,The notebook would not turn back on again.,[],[],True
+2292,The ease of use is wonderful.,['use'],['use'],True
+1613,"Also, macbooks come with much more features which are so cool!",['features'],"['macbooks', 'features']",False
+2664,NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS.,[],[],True
+2608,Our Apple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook and has become such an integral part of completing our daily needs and social networking.,[],[],True
+2544,if this computer every breaks down on me i will most definatly get the same one again.,[],[],True
+2220,"The computer loads in about a 1/10th of the time that my PC did, and I have all of the programs that were on my PC.","['loads', 'programs']",['programs'],False
+2691,"Overall, it's ok.",[],[],True
+73,"The newer black keyboard took a little bit away from the previous gray one which looked really slick, but it is still a great notebook!",['black keyboard'],['black keyboard'],True
+2677,"As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications.","['software options', 'applications']","['software options', 'applications']",True
+1028,Or the cursor would show up some place else.,['cursor'],['cursor'],True
+1103,What can I say.,[],[],True
+873,I had a toshiba for 10 years.,[],[],True
+1847,  English must have been his third or fourth language.,[],[],True
+1746,"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.","['Screen', 'keyboard', 'mouse', 'screen', 'island backlit keyboard', 'multi - touch mouse']","['Screen', 'keyboard', 'mouse', 'screen', 'island backlit keyboard', 'multi - touch mouse']",True
+737,I am taking back today.,[],[],True
+174,When I got the computer back and realizwed it still was not correct HP told me it was out of warranty and now it was my problem.,['warranty'],['warranty'],True
+2452,It also came with a built it web cam which is great because I can see an communicate with my family members back home.,['built it web cam'],['web cam'],False
+1203,They are closed at 9pm eastern.,[],[],True
+397,"Although my model was listed as recalled, HP denied my claim.",[],[],True
+1598,"I was a little weary at purchasing another 13"" macbook almost 2 years later but t looks like the newer macbooks have gotten its current line of graphics cards in order this time around.",['graphics cards'],['graphics cards'],True
+2591,This was purchased for my daughter and I was pleasantly surprised.,[],[],True
+100,"I had of course bought a 3 year warranty, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement.",['3 year warranty'],['warranty'],False
+1704,I pondered very long over this decision.,[],[],True
+702,"Okay, let's just start out by saying I am in no way a computer techy.",[],[],True
+674,This computer is absolutely AMAZING!!!,[],[],True
+1447,I loved the netbook (minus the fact that it was windows OS) until this started happening.,['windows OS'],['windows OS'],True
+2191,"I have had two Toshiba satellite computers and while they are okay, they are in no way comparable to the Mac.",[],[],True
+56,I am sorry that I purchased this laptop.,[],[],True
+2514,If you have the money I suggest going for the i7.,[],[],True
+2520,"It is, however, very heavy.",[],[],True
+2057,"Was disappointed to find out that the model had been discontinued, apparently because of known motherboard problems.",['motherboard'],['motherboard'],True
+1279,Recently there are a few incidents that annoy the hell out of me.,[],['hell'],False
+553,I absolutely love my mac!,[],[],True
+385,It is easily portable and I take it everywhere I go and might require internet access.,[],['internet access'],False
+1700,"HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.",[],[],True
+350,also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.,"['keyboard', 'keyboard']","['keyboard', 'keyboard']",True
+1306,It is as good as new.,[],[],True
+623,*3 weeks after giving the computer for repair*-Visited MacHouse Amsterdam.,[],[],True
+769,Asked the customer service rep.,['customer service rep'],['customer service rep'],True
+2017,I looked at the computer and it said updating but the asked for a product key.,[],['product key'],False
+1596,"Just keep in mind the graphics is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.",[],"['graphics', 'movie', 'graphics card']",False
+2836,"the mouse on the pad, the left button always sticks.","['mouse on the pad', 'left button']","['mouse', 'pad', 'left button']",False
+1343,But my blog is read by my friends and search engine visitors.,[],[],True
+1699,"IT WANT TAKE IT, IT KEEP SAYING ERROR.",[],[],True
+2409,The programs that come standard with the Leopard running system are enough for the average person to run all the basics.,"['programs', 'Leopard running system']","['programs', 'Leopard running system']",True
+1322,"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".","['LG service center', 'service', 'service center']","['LG service center', 'service', 'service center']",True
+1387,This computer is good for 10 days then it sucks for the rest of your life.,[],[],True
+2039,"I waited another month for approval and for them to ""BUILD"" me a new laptop.",[],[],True
+2107,I wasn't really as concerned about portability (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.,[],['portability'],False
+1286,"However, a NETBOOK will be a different story.",[],[],True
+2092,"I'm glad I bought this laptop, it was worth the few ($100) extra dollars.",[],[],True
+725,After much battling with HP i was able to return it 4 times for repairs.,[],[],True
+175,"So, you can imagine how unhappy I am with this item.",[],[],True
+2580,"But let me tell you, the mac book pro is so professional.",[],[],True
+1816,go for it!,[],[],True
+492,It was a huge monstrosity of a Laptop!,[],[],True
+613,-Computer crashed frequently and battery life decreased very quickly.,['battery life'],['battery life'],True
+574,I would like to tell you about the best laptop I just got from Mac.,[],[],True
+1226,I called their repair depot as was told they would send Me a new box to return the computer to the repair depot.,"['repair depot', 'repair depot']","['repair depot', 'repair depot']",True
+2627,It's also fairly easy to use the Operating System.,['Operating System'],"['use', 'Operating System']",False
+1537,This is a great machine!,[],[],True
+3059,This is my first personal Satellite purchase but had very good experience through previous Satellite work issued laptops.,[],[],True
+2576,"I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.",['MS Office'],['MS Office'],True
+1004,This is not Best Buy's fault.,[],[],True
+1405,"Most of my papers could not be saved and when they could be, half the time, the papers were then erased.",[],[],True
+2403,"Exactly that, users.",[],[],True
+94,"Almost 4 years ago I bought what was then the current, up to date HP Pavilion--If I recall correctly, it was the dv 1300 t.",[],[],True
+1936,"In early May I got it back and this time I only had it back for 1 day before it had a NEW issue so it was sent back in for the 6th time they ""expedited"" the repairs so I was only supposed to have to be without it for 3 days and it was supposed to be fixed, by a ""Senior Tech"".",['Senior Tech'],[],False
+2267,"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;","['portability', 'longevity', 'use']","['portability', 'longevity', 'use']",True
+683,I love this little one.,[],[],True
+2160,"Fully charged, the MacBook Pro can last about five hours unplugged.",['charged'],[],False
+1501,It was a hard decision for me since the MacBook Pro looked so appealing.,[],[],True
+2254,"Even though it is much more expensive than many PC laptops, it is worth the price.",[],['price'],False
+1104,The first programm I switched on was a game for my children.,['programm'],[],False
+487,It came alot faster than I thought it would have which was really exciting.,[],[],True
+2885,I tell everyone I see out looking to get this or another Toshiba.,[],[],True
+2287,"So honestly, I wasn't expecting anything less than perfection, and I wasn't disappointed.",[],[],True
+207,Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,"['keyboard shortcuts', 'shortcuts']","['keyboard shortcuts', 'Windows']",False
+722,"Other installed features, such as certain printer software, are also most attractive.","['features', 'printer software']","['features', 'printer software']",True
+898,"At first when I got this product, I loved it.",[],[],True
+494,"It had a seventeen inch screen which I wanted, but I didn't realize at the time it would be such a monster!",[],['seventeen inch screen'],False
+597,The iLife software that comes with the computer is so simple to use and produces a great finished product.,"['iLife software', 'use']",['iLife software'],False
+2507,"PC users work in Word, while Mac users work in Pages.","['Word', 'Pages']",['Word'],False
+84,"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.","['internet', 'gaming', 'applications']","['internet', 'gaming', 'applications']",True
+576,My mac laptop is fabulous in both areas.,[],[],True
+1298,I was starting to boil.,[],[],True
+1027,It still seems to be a little lose now but so far seems to be hanging in there.,[],[],True
+2963,"Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.",['gaming'],['gaming capabilities'],False
+1829,There are differences that you need to know and take time to learn.,[],[],True
+339,"Still, this laptop is perfect for all day use at school and work.",[],[],True
+2503,"Everything about the Mac is not only visually appealing, but very easy to use.",['use'],['use'],True
+1483,The laptop is outstanding in all aspects except that it has the Windows 7 starter and not the full Windows 7.,"['Windows 7 starter', 'Windows 7']","['Windows 7 starter', 'Windows 7']",True
+120,"The DVD drive randomly pops open when it is in my backpack as well, which is annoying.",['DVD drive'],['DVD drive'],True
+257,Don't waste your money!,[],[],True
+1755,"however, they were kind enough to send a replacement free of charge.",[],['charge'],False
+686,Seriously considering a larger laptop to replace the Dell,[],[],True
+1111,Don't buy this model.,[],[],True
+2175,I can leave my MacBook uncharged for upwards of eight hours and it won't even be dead.,[],[],True
+8,"Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.","['design', 'colors']","['design', 'array']",False
+2078,"I love this 13"" Mac white unibody.",[],[],True
+402,Needs constant repair.,[],[],True
+2324,One bad thing is it gets hot.,[],[],True
+691,I'm so glad I purchased a Mac and not another PC!!!,[],[],True
+773,I'm tired of the inept service.,['service'],['service'],True
+1112,"Info: Windows failed to load because the kernal is missing, or corrupt.","['Windows', 'kernal']","['Windows', 'kernal']",True
+1576,"The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.","['display', 'battery life']","['display', 'battery life']",True
+458,In the first moth of owning this computer its hardrive failed which had to be replaced.,['hardrive'],[],False
+428,If you shop around in the current market you can find a much better deal.,[],[],True
+221,You will love this macbook if you choose to buy it.,[],[],True
+2120,My Mac is much more efficient than a PC so it does not need the extra bells and whistles to compete.,[],[],True
+1601,"I have in the past gotten superfine sandpaper and ""fixed"" the edges by rounding them off.",['edges'],"['superfine sandpaper', 'edges']",False
+941,I had it four months when my disc drive refused to open.,['disc drive'],['disc drive'],True
+2248,"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.","['Pages', 'Keynotes']","['design tools', 'looking documents', 'presentations']",False
+1097," I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!","['hard drive', 'mother board', 'dvd drive']","['hard drive', 'mother board', 'dvd drive']",True
+1308,"The guy then said that if I insist on having the hinge tightened, they can do it for me but I have to accept the condition after the ""repair"".",['hinge'],['hinge'],True
+2226,Now I have the best of both worlds with all of the power and ease of the Mac!,"['power', 'ease']",['power'],False
+1181,"That seemed to solve the problem, till I wrote an article with semicolons in it.",[],[],True
+1051,-Touchpad will take a bit of time to get used to.,['-Touchpad'],[],False
+2892,I bought this laptop about a month ago to replace my compaq laptop.,[],[],True
+1293,"She told me flatly, ""It's like that one.",[],[],True
+585,It is the easiest computer I have ever used,[],[],True
+3008,"tosiba has a good reputation, my llast computer was an acer.",[],[],True
+480,"This was around three years, maybe four years ago.",[],[],True
+1184,) And printing from either word processor is an adventure.,['word processor'],['word processor'],True
+653,It played various games without problems and ran aero smoothly and flawlessly.,"['games', 'aero']",['ran'],False
+894,She tells me about it all the time but I tend to shut off all cognitive functions when she gets that yapper going.,[],[],True
+2407,You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without.,"['parallels type program', 'software']","['program', 'PC software']",False
+965,"I practically have a new laptop with all the ""fixes"" they have done!",[],[],True
+1631,"Finally, I purchased a Toshiba.",[],[],True
+1345,You may just lose 1 customer for now.,[],[],True
+1756,"Many thanks, Overstock.com.",[],[],True
+542,power supply went bad after 2 weeks --,['power supply'],['power supply'],True
+1363,Emachines says they're waiting for a part and refuses to replace entire unit.,[],[],True
+2373,"The screen takes some getting use to, because it is smaller than the laptop.",['screen'],['screen'],True
+578,"The Final Cut Pro on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.",['Final Cut Pro'],['Final Cut'],False
+125,"I Contacted HP  about this situation and was given excuses, without results.",[],[],True
+2872,The Toshiba laptop was a great purchase.,[],[],True
+1176,"After years of using PCs, a new Mac user is basically forced to re-learn how to use a computer.",[],['Mac user'],False
+690,I love it!,[],[],True
+843,"The ""abuse"" is that I pushed the power plug in too hard.",['power plug'],['power plug'],True
+1490,"It is easy to find documents, and keep them in one area.",[],['find documents'],False
+2173,"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.","['programs', 'iLife', 'iWork']","['programs', 'iLife', 'iWork']",True
+836,The AC power port becomes loose over time,['AC power port'],['AC power port'],True
+2289,It's the inside that is truly wonderful.,[],['inside'],False
+780,I purchased this laptop 9 months ago!,[],[],True
+2101,Which is great I am running Vista Business and scored a 5.X on the index I have never seen a windows machine have a total score in the 5's.,['Vista Business'],['Vista Business'],True
+2482,"We love the size of the screen, although it is still lightweight and very easy to tote around.","['size of the screen', 'tote']","['size', 'screen', 'tote']",False
+1156,It's catatonic.,[],[],True
+2658,This is a great computer.,[],[],True
+1312,Dismantle the whole thing? Then it will not be a newly manufactured set like before.,[],[],True
+502,The first time it crashed was maybe going on a year and a half of having it.,[],[],True
+1975,I paid $800 for this computer from my school campus bookstore.,[],[],True
+2343,Note that I don't ordinarily take the time to write a review.,[],[],True
+1548,"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.","['built', 'look', 'price', 'performance']","['built', 'look', 'price', 'performance']",True
+1547,"ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.",[],[],True
+2880,So we exchanged it for the same on and after 2 hours it didn't work.,['work'],[],False
+1234,We don't Mind and You don't Matter.,[],[],True
+1442,Toshiba knows there is a manufacturing defect but will not acknowledge it.,[],[],True
+1070,"Also, I issued a replacement RMA for a few dead pixels in the upper zone of the screen, which is noticable to me.",['screen'],['screen'],True
+86,I have had my new Macbook Pro i5 for a couple of days and have recycled ALL of my old PC laptops.,[],[],True
+2208,I especially like the backlit keyboard.,['backlit keyboard'],['backlit keyboard'],True
+2088,"The sound is a bit quiet if you're on a plane, this can easily be overcome with a decent pair of head phones.",['sound'],['sound'],True
+501,A lot of help they WEREN'T!,[],[],True
+1799,(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),"['SATA controller', 'motherboard chip', 'CPU', 'hard drive']","['SATA controller', 'motherboard chip', 'hard drive']",False
+1214,Now 17 months later they want (would not say exact amount) $165.00 to $400 to fix the machine.,[],[],True
+2555,We decided we would try to trade-in our old ones.,[],[],True
+2961,My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.,"['electronic fuzz sound', 'headphone jack']","['fuzz sound', 'headphone jack']",False
+1814,"might have to buy one for me now, since I use it all the time.",[],[],True
+1535,"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.","['size', 'features', 'lighted keyboard', 'mouse pad']","['size', 'features', 'lighted keyboard', 'easy mouse pad']",False
+1011,I had to wait 3 weeks to get it back and it still is not working properly.,[],[],True
+1572,From the moment I opened the box to the present it has been a great joy.,[],[],True
+1715,"Thanks, MacConnection, for making this a seamless purchase!",[],[],True
+500,We paid for the three year warranty and the extended warranty after that one ended as well.,"['three year warranty', 'extended warranty']","['warranty', 'extended warranty']",False
+158,"I acually believe the issue is with the Nvidia grafics card, but still requires a return.",['Nvidia grafics card'],['Nvidia grafics card'],True
+2567,"No waiting to have my claim reviewed by someone in another state (or more often, another country).",[],[],True
+1961,I did not like my acer.,[],[],True
+2585,It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,"['type', 'feature', 'keyboard']","['added feature', 'keyboard']",False
+2634,The only time I have restarted is during system updates.,[],['system updates'],False
+2256,The benefits were immediate!,[],[],True
+2815,They click.,[],[],True
+424,"The lesson learned here is: It does not pay to by this loyal to any brand, since all of them are there to simply  to make as much money as possible, as fast as they can, and in this day and age, the customer no longer is right all the times.",[],"['lesson', 'customer']",False
+2316,PDF files can be viewed instantly.,[],[],True
+1726,I have had it for almost four years now and I have only had a few problems with it.,[],[],True
+2955,"It is so simple to use, I use it more than my desktop.",['use'],[],False
+2212,"The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.",['applications'],"['applications', 'find', 'maneuver']",False
+2153,The large screen gives you the option to comfortably watch movies or TV shows on your computer instead of buying an additional TV for your dorm room.,['screen'],['screen'],True
+1450,"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifant  amount off the price.","['components', 'price', 'price']","['components', 'price', 'price']",True
+527,I can't honestly say I was heartbroken.,[],[],True
+1392,sometimes you will be moving your finger and the pointer will not even move.,['pointer'],['pointer'],True
+2731,The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,"['Touchpad', 'USB', 'Touchpad']","['Touchpad', 'USB', 'Touchpad']",True
+1438,"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.","['keys', 'keyboard', 'paint', 'button below the mouse pad', 'screen']","['keys', 'keyboard', 'paint', 'mouse pad', 'screen']",False
+2663,THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE----BROUGHT IT BACK TO STORE FOR RETURN OF MONEY.,[],[],True
+1771,It is easy to navigate and update programs.,"['navigate', 'update programs']","['navigate', 'update programs']",True
+1960,"All in all, a very disappointing experience except that I learned how good the Geek Squad is and also Customer Service.",['Customer Service'],"['Geek Squad', 'Customer Service']",False
+2006,"Now, I guess, I'll have to unload my M6809 on some poor, hapless soul.",[],[],True
+2223,"The only drawback for me is how dirty the screen gets, and rather quickly too.",['screen'],['screen'],True
+495,Taking it anywhere was a pain!,[],[],True
+554,I can't imagine my life without it anymore!,[],[],True
+1964,This computer was so challenging to carry and handle.,"['carry', 'handle']","['carry', 'handle']",True
+2573,"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.","['memory', 'Windows 7 Starter', 'Win 7 Home', 'runs']","['memory', 'base Windows 7 Starter', 'Win 7 Home', 'runs']",False
+193,-got it back 3 months later,[],[],True
+2430,Had some trouble finding a case that it would fit in.,['case'],[],False
+266,The book is useless.,[],['book'],False
+2431,"This is an over-sized, 18-inch laptop.",['18 - inch'],[],False
+2459,I love it so much.,[],[],True
+2340,I use it now more than I even thought I would.,[],[],True
+115,"The battery life, before the battery completely died of course, left much to be desired.","['battery life', 'battery']","['battery life', 'battery']",True
+196,"Do yourself a favor, this is not a fake story trying to hurt alienware...",[],[],True
+2318,Wonderful zooming.,['zooming'],['zooming'],True
+991,Just a bunch of idiots who's English as a 5th language is forced at best.,[],[],True
+461,A tip for people looking into this computer: DO NOT BUY IT save up a bit more money and buy a computer that will last.,[],[],True
+2823,This is a great little computer for the price.,['price'],['price'],True
+1582,"Crisp screen, great battery life, and plenty of storage.","['screen', 'battery life', 'storage']","['screen', 'battery life', 'storage']",True
+2023,I will never buy another HP computer.,[],[],True
+908,"Also, my sister got the exact same laptop (since they were so cheap) and after 8 months, the screen split in half just from everyday use.",['screen'],['screen'],True
+2561,"I wish iWork or MS Office came with the Mac, but MS Office doesn't even come with most pc laptops.","['iWork', 'MS Office', 'MS Office']","['iWork', 'MS Office', 'Mac', 'MS Office']",False
+2376,To my mind much more usable than the toy called an IPad.,[],[],True
+1175,"The laptop is relatively simple to use, though I bought  Macs for Dummies,  which is well worth $2",['use'],"['use', 'Dummies']",False
+233,"From the start, when you open the box you see a completely different class of machine.",[],[],True
+1636,"To this day, there are NONE.",[],[],True
+409,i setup my password last night with the password on my other computer.,[],[],True
+848,"How Toshiba handles the repair seems to vary, some folks  indicate that they were charged for even an intial fix, others had the  repair done 5 times.",['repair'],[],False

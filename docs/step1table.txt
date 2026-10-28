@@ -1,0 +1,50 @@
+D:\ICT\SEM 7\nlppro>python -u "d:\ICT\SEM 7\nlppro\step1_data.py"
+3045 sentences, 2313 aspect-sentiment pairs
+sentences with no aspect: 1583
+rows with wrong offsets: 0
+
+Sentiment counts:
+ polarity
+positive    987
+negative    866
+neutral     460
+
+Sentiment %:
+ polarity
+positive    42.7
+negative    37.4
+neutral     19.9
+
+Aspects per sentence:
+ spans
+0     1583
+1      917
+2      346
+3      136
+4       42
+5       10
+6        6
+7        3
+8        1
+13       1
+
+tokens 45257 | vocab 4597 | type-token ratio 0.102
+avg words per sentence: 14.9
+
+Top 10 aspects:
+ term
+screen          60
+price           56
+use             53
+battery life    52
+keyboard        50
+battery         47
+programs        37
+features        35
+software        33
+warranty        31
+
+Saved:
+  D:\ICT\SEM 7\nlppro\data\processed\laptop_pairs.csv
+  D:\ICT\SEM 7\nlppro\data\processed\laptop_sents.pkl
+  D:\ICT\SEM 7\nlppro\outputs\figures\eda_overview.png
